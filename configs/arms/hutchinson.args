@@ -1,0 +1,1 @@
+--method sfl_hess_diag --hd_mode diag_only --hd_diag_method hutchinson

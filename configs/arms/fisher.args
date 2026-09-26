@@ -1,0 +1,1 @@
+--method sfl_hess_diag --hd_mode lowrank --hd_lowrank_src fisher --hd_lanczos_k 4 --hd_lanczos_iters 8 --hd_ggn_exact_maxc 0

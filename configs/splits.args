@@ -1,0 +1,3 @@
+iid=
+noniid05=--noniid --dirichlet_alpha 0.5
+noniid01=--noniid --dirichlet_alpha 0.1

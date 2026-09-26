@@ -1,0 +1,1 @@
+--method sfl_fsl_sage --cmp_aux_blocks 3 --sage_refresh_eval False --sage_store_interval 5 --sage_align_epochs 40 --sage_align_bs 8 --sage_max_data 64 --sage_align_opt adamw --sage_align_lr 2e-4 --sage_align_wd 0.01 --sage_align_eps 1e-6 --sage_align_warmup 500 --sage_align_mode global --sage_bootstrap none

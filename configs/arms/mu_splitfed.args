@@ -1,0 +1,1 @@
+--method sfl_mu_splitfed --mu_lowfreq True --mu_joint_final True --mu_mu 1e-3 --mu_tau 2 --mu_num_pert 1 --mu_lr_s ${LR} --mu_lr_c ${LR} --mu_plateau_stop 50
